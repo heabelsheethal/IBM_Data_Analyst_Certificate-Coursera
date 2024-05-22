@@ -1,3 +1,3 @@
 # Learning_Python
-## contains Coursera courses
+## Python for Data science
 This is a learning refernce repository
